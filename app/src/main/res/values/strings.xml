@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Where I am ?</string>
+    <string name="text_fin_1">Tu as fini.\nTon score est de : </string>
+    <string name="text_fin_2">.\nLe meilleur score est de : </string>
+    <string name="tv_explication_jeu">Tu es prêt(e) à trouver le trèfle à 4 feuilles parmi tous ses semblables à 3 feuilles ?</string>
+    <string name="titre_auteurs">Qui sommes-nous ?</string>
+    <string name="presentation_auteurs">Ce jeu est développé par Madame Lucie MASSON dans le cadre des cours de Madame Iza MARFISI à l\'IUT de Laval.</string>
+</resources>
